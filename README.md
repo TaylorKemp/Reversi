@@ -12,7 +12,7 @@ Java Development Kit 8
 
 ## Authors
 
-* **Taylor Kemp** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Taylor Kemp** - [TaylorKemp](https://github.com/TaylorKemp)
 
 ## License
 

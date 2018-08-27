@@ -4,10 +4,10 @@ Reversi is a board game involving two players who take turns placing a single pi
 
 ### Prerequisites
 
-The following version of Java Developer was used in designing this project.
+The following version of [Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) Developer was used in designing this project.
 
 ```
-[Java Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+Java Development Kit 8
 ```
 
 ## Authors
